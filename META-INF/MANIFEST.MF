@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EjercicioToken
+Bundle-SymbolicName: EjercicioToken
+Bundle-Version: 1.0.0.qualifier
+Export-Package: cl.nisum,
+ cl.nisum.security,
+ cl.nisum.usuario
